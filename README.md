@@ -1,5 +1,19 @@
-### BBANGI 👊
-[BLOG🐳](bangjinhyuk.github.io)
+## 👊 BBANGI 👊
+
+<img src="https://img.shields.io/badge/jinhyuk0103@gmail.com-9F81F7?style=flat&logo=Gmail&logoColor=white"/> [<img src="https://img.shields.io/badge/BBangi_Blog-9F81F7?style=flat&logo=Micro.blog&logoColor=white"/>](bangjinhyuk.github.io)
+
+#### 🚀　Well begun is half done.
+
+### 🤜 Skills
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-007396?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Android-007396?style=flat&logo=AndroidStudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-339933?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/MySQL-232F3E?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-232F3E?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-232F3E?style=flat&logo=Firebase&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+
+
 <!--
 **bangjinhyuk/bangjinhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +29,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bangjinhyuk)](https://github.com/anuraghazra/github-readme-stats)
