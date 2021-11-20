@@ -17,6 +17,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangjinhyuk)](https://solved.ac/bangjinhyuk/)
 
+#### 🚀　100 Day 1회독 Challenge 21.11.22 ~ 22.03.01 
+- Effective JAVA
+- 자바 ORM 표준 JPA 프로그래밍
+- Spring in Action
+
 <!--
 **bangjinhyuk/bangjinhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
