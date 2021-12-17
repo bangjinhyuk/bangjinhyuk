@@ -7,7 +7,7 @@
 ### 🤜 Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-007396?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Android-007396?style=flat&logo=AndroidStudio&logoColor=white"/>
 
-<!-- <img src="https://img.shields.io/badge/JavaScript-339933?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>  -->
+<img src="https://img.shields.io/badge/JavaScript-339933?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Docker-232F3E?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-232F3E?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-232F3E?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-232F3E?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-232F3E?style=flat&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-232F3E?style=flat&logo=Postman&logoColor=white"/> 
 
