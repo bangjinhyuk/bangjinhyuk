@@ -11,8 +11,10 @@
 
 <img src="https://img.shields.io/badge/Docker-232F3E?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-232F3E?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-232F3E?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-232F3E?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-232F3E?style=flat&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-232F3E?style=flat&logo=Postman&logoColor=white"/> 
 
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+
+### 📚 Studying...
+<img src="https://img.shields.io/badge/ApacheKafka-5F04B4?style=flat&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-5F04B4?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/RestDocs-5F04B4?style=flat&logo=RestDocs&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-5F04B4?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-5F04B4?style=flat&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-5F04B4?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-5F04B4?style=flat&logo=Ubuntu&logoColor=white"/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangjinhyuk)](https://solved.ac/bangjinhyuk/)
