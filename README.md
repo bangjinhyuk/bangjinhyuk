@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
 ### 📚 Studying...
-<img src="https://img.shields.io/badge/ApacheKafka-5F04B4?style=flat&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-5F04B4?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/RestDocs-5F04B4?style=flat&logo=RestDocs&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-5F04B4?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-5F04B4?style=flat&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-5F04B4?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-5F04B4?style=flat&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangjinhyuk)](https://solved.ac/bangjinhyuk/)
