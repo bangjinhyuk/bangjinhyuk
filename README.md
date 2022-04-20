@@ -1,6 +1,6 @@
 ## 👊 BBANGI 👊
 
-<img src="https://img.shields.io/badge/jinhyuk0103@gmail.com-9F81F7?style=flat&logo=Gmail&logoColor=white"/> [<img src="https://img.shields.io/badge/BBangi_Blog-9F81F7?style=flat&logo=Micro.blog&logoColor=white"/>](https://bangjinhyuk.github.io/)
+<img src="https://img.shields.io/badge/jinhyuk0103@gmail.com-9F81F7?style=flat&logo=Gmail&logoColor=white"/> [<img src="https://img.shields.io/badge/BBangi_Blog-9F81F7?style=flat&logo=Micro.blog&logoColor=white"/>](https://velog.io/@bbangi)
 
 #### 🚀　Well begun is half done.
 
