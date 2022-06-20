@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 
 ### 🔭 Experience
-###### KongTech - Develope KongCheck & Orbro Check app (2022.01 ~ 2022.06)
+###### KongTech(Internship) - Develope KongCheck & Orbro Check app (2022.01 ~ 2022.06)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangjinhyuk)](https://solved.ac/bangjinhyuk/)
 
