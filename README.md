@@ -18,6 +18,7 @@
 
 ### 🔭 Experience
 ###### KongTech(Internship) - Develope KongCheck & Orbro Check app (2022.01 ~ 2022.06)
+###### Netmarble - 넷마블(Internship) (2022.06 ~ 2022.08)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangjinhyuk)](https://solved.ac/bangjinhyuk/)
 
